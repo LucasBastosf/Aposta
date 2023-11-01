@@ -1,0 +1,14 @@
+C:\Users\Cliente\Labis\Aposta\Aposta\bin\Debug\net7.0\Aposta.exe
+C:\Users\Cliente\Labis\Aposta\Aposta\bin\Debug\net7.0\Aposta.deps.json
+C:\Users\Cliente\Labis\Aposta\Aposta\bin\Debug\net7.0\Aposta.runtimeconfig.json
+C:\Users\Cliente\Labis\Aposta\Aposta\bin\Debug\net7.0\Aposta.dll
+C:\Users\Cliente\Labis\Aposta\Aposta\bin\Debug\net7.0\Aposta.pdb
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\Aposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\Aposta.AssemblyInfoInputs.cache
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\Aposta.AssemblyInfo.cs
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\Aposta.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\Aposta.dll
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\refint\Aposta.dll
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\Aposta.pdb
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\Aposta.genruntimeconfig.cache
+C:\Users\Cliente\Labis\Aposta\Aposta\obj\Debug\net7.0\ref\Aposta.dll
